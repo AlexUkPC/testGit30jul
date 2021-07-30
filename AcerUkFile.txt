@@ -9,3 +9,4 @@ Sic consequentibus vestris sublatis prima tolluntur. Tamen a proposito, inquam, 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Qua tu etiam inprudens utebare non numquam. Nonne igitur tibi videntur, inquit, mala? In schola desinis. Iubet igitur nos Pythius Apollo noscere nosmet ipsos. Sed ille, ut dixi, vitiose. Duo Reges: constructio interrete. 
 add text dependent of sometext in AlexUkPcFile.txt
 dependent text from lorem ipsum in AlexUkPcFile.txt
+30
