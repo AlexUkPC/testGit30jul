@@ -2,6 +2,7 @@ h1 {
   color: red;
   font-size: 40px;
   border-bottom: green 1px solid;
+  padding: 15px 40px;
 }
 p {
   color: orange;
