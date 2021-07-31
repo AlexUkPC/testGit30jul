@@ -1,6 +1,7 @@
 h1 {
   color: red;
   font-size: 40px;
+  border-bottom: green 1px solid;
 }
 p {
   color: orange;
