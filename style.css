@@ -5,6 +5,8 @@ h1 {
   padding: 15px 40px;
 }
 p {
+  font-size: 20px;
+  background-color: black;
   color: green;
   margin: 20px 40px;
 }
